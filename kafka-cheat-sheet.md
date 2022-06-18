@@ -113,3 +113,8 @@ Add the following property to `config/consumer.properties`:
 ### Starting the Zookeeper Shell
 
 `bin/zookeeper-shell.sh localhost:2181`
+
+#### Links
+***
+https://medium.com/@TimvanBaarsen/apache-kafka-cli-commands-cheat-sheet-a6f06eac01b
+
